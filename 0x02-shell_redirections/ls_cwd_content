@@ -1,0 +1,12 @@
+total 16
+drwxr-xr-x 1 W10X64_AUG-2020 197121  0 Apr  4 13:33 .
+drwxr-xr-x 1 W10X64_AUG-2020 197121  0 Apr  4 01:01 ..
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 32 Apr  4 05:19 0-hello_world
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 28 Apr  4 01:48 1-confused_smiley
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 28 Apr  4 10:40 2-hellofile
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 39 Apr  4 11:18 3-twofiles
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 40 Apr  4 13:25 6-third_line
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 86 Apr  4 13:19 7-file
+-rwxr-xr-x 1 W10X64_AUG-2020 197121 36 Apr  4 13:32 8-cwd_state
+-rw-r--r-- 1 W10X64_AUG-2020 197121 85 Apr  4 05:22 README.md
+-rw-r--r-- 1 W10X64_AUG-2020 197121  0 Apr  4 13:33 ls_cwd_content
